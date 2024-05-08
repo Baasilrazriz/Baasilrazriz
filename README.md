@@ -3,7 +3,7 @@
 I am Muhammad Basil Irfan Rizvi, a motivated and ambitious software engineering student at Bahria University. Currently pursuing a Bachelor’s degree in Software Engineering, I am passionate about technology and constantly expanding my skill set. My expertise includes HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, ReactJS, NodeJS, Asp.net, C#, Java, MongoDB, and SQL. I aim to use my expertise to contribute effectively in a professional setting
 
 <h3 align="left">Connect with me 🌐</h3>
-<a href="https://baasilrazriz.vercel.app/" target="_blank" >
+<a href="https://baasilrazriz.vercel.app/" target="_blank" rel="noopener noreferrer">
 🌐
 </a>
 
