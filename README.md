@@ -14,9 +14,17 @@ I am Muhammad Basil Irfan Rizvi, a motivated and ambitious software engineering 
 	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Baasilrazriz&show_icons=true&count_private=true&locale=en&theme=great-gatsby&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Baasilrazriz&langs_count=10&show_icons=true&locale=en&theme=great-gatsby" alt="jawad-mohsin" height="230px"/>
 </p>
-
+<p align="center">
+	
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Baasilrazriz&theme=dark&hide_border=false)<br/>
+</p>
+<p align="center">
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Baasilrazriz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</p>
+
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
