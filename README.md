@@ -57,11 +57,18 @@ I am Muhammad Basil Irfan Rizvi, a motivated and ambitious software engineering 
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# ✍️ Random Dev Quote
+<p align="center">
+<img alt="7oSkaaa's Github Stats" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=baasilrazriz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+</p>
+
+
+
+# 🔝 Top Contributed Repo
+<p align="center">
+<img alt="7oSkaaa's Github Stats" src="https://github-contributor-stats.vercel.app/api?username=baasilrazriz&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
 ---
 </details>
