@@ -3,6 +3,10 @@
 I am Muhammad Basil Irfan Rizvi, a motivated and ambitious software engineering student at Bahria University. Currently pursuing a Bachelor’s degree in Software Engineering, I am passionate about technology and constantly expanding my skill set. My expertise includes HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, ReactJS, NodeJS, Asp.net, C#, Java, MongoDB, and SQL. I aim to use my expertise to contribute effectively in a professional setting
 
 <h3 align="left">Connect with me 🌐</h3>
+<a href="https://baasilrazriz.vercel.app/" target="_blank" >
+  portfolio 🔗 
+</a>
+
 <a href="https://www.linkedin.com/in/muhammad-basil-irfan-rizvi-886157215/" target="_blank" rel="noopener noreferrer">
   <img align="left" width="24px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-1024.png"  />
 </a>
@@ -14,7 +18,9 @@ I am Muhammad Basil Irfan Rizvi, a motivated and ambitious software engineering 
 <a href="mailto:baasilrazriz@gmail.com" target="_blank" rel="noopener noreferrer">
   <img align="left" width="26px" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-256.png" />
 </a>
-
+<a href="https://www.facebook.com/muhammadbaasil.razriz" target="_blank" rel="noopener noreferrer">
+  <img align="left" width="26px" src="https://cdn1.iconfinder.com/data/icons/facebook/32/facebook.png" />
+</a>
 <br>
 <br>
 <details>
@@ -70,5 +76,6 @@ I am Muhammad Basil Irfan Rizvi, a motivated and ambitious software engineering 
 <p align="center">
 <img alt="7oSkaaa's Github Stats" src="https://github-contributor-stats.vercel.app/api?username=baasilrazriz&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
+
 ---
 </details>
