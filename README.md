@@ -4,7 +4,7 @@ I am Muhammad Basil Irfan Rizvi, a motivated and ambitious software engineering 
 
 <h3 align="left">Connect with me 🌐</h3>
 <a href="https://baasilrazriz.vercel.app/" target="_blank" >
-  portfolio 🔗 
+🌐
 </a>
 
 <a href="https://www.linkedin.com/in/muhammad-basil-irfan-rizvi-886157215/" target="_blank" rel="noopener noreferrer">
@@ -18,9 +18,7 @@ I am Muhammad Basil Irfan Rizvi, a motivated and ambitious software engineering 
 <a href="mailto:baasilrazriz@gmail.com" target="_blank" rel="noopener noreferrer">
   <img align="left" width="26px" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-256.png" />
 </a>
-<a href="https://www.facebook.com/muhammadbaasil.razriz" target="_blank" rel="noopener noreferrer">
-  <img align="left" width="26px" src="https://cdn1.iconfinder.com/data/icons/facebook/32/facebook.png" />
-</a>
+
 <br>
 <br>
 <details>
